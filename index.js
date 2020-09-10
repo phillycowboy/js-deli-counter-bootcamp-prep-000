@@ -29,7 +29,7 @@ function currentLine(katzDeliLine){
       
     } 
     
-     return finalList;
+     return finalList.slice(0, -1);
     // return("The line is currently: " + katzDeliLine);
   }
  
