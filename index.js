@@ -21,6 +21,8 @@ function currentLine(katzDeliLine){
   function incrementVariable(){
     const namesAndNumber=[];
     let i = i+ 1;
-  }do
+  }do{
+    return("Currently serving:");
+  }while(incrementVariable<katzDeliLine);
   
 }
