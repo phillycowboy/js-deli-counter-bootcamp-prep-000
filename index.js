@@ -22,7 +22,7 @@ function currentLine(katzDeliLine){
     const namesAndNumber=[];
     let i = i+ 1;
   }do{
-    return("Currently serving:");
+    return("The line is currently: ");
   }while(incrementVariable<katzDeliLine);
   
 }
