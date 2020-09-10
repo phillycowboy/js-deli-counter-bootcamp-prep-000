@@ -23,6 +23,6 @@ function currentLine(katzDeliLine){
     let i = i+ 1;
   }do{
     return("The line is currently: ");
-  }while(incrementVariable<katzDeliLine);
+  }while(incrementVariable<namesAndNumber);
   
 }
