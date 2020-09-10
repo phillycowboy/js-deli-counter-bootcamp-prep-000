@@ -20,7 +20,7 @@ function currentLine(katzDeliLine){
   }
   function incrementVariable(){
     const namesAndNumber=[];
-    let i = 0;
-  }
+    let i = i+ 1;
+  }do
   
 }
