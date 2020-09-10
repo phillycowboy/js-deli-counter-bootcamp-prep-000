@@ -27,9 +27,9 @@ function currentLine(katzDeliLine){
       finalList+=`${i+ 1}. ${katzDeliLine[i]},`
     
       
-    } return fianlList;
+    } 
     
-    
+     return fianlList;
     // return("The line is currently: " + katzDeliLine);
   }
  
